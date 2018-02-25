@@ -7,7 +7,7 @@ public class Classstring {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String x="iopi";
+		String x="iopio";
 		int y=x.length(); 
 		;
 		int flag=0;
